@@ -12,7 +12,7 @@ A Flask web application for Vedic (sidereal) astrology. It generates birth chart
 
 ## Features
 
-- **Birth chart generation** — Sidereal positions using the Lahiri ayanamsa for the Sun, Moon, Mercury, Venus, Mars, Jupiter, Saturn, plus Rahu and Ketu (mean node).
+- **Birth chart generation** - Sidereal positions using the Lahiri ayanamsa for the Sun, Moon, Mercury, Venus, Mars, Jupiter, Saturn, plus Rahu and Ketu (mean node).
 - **Zodiac and Nakshatra mapping** — Signs shown in both Sanskrit (Mesha, Vrishabha, ...) and English (Aries, Taurus, ...), with all 27 Nakshatras and their padas.
 - **Ascendant and houses** — Ascendant and house cusps computed from birth date, time and location.
 - **Panchanga** — Tithi and Nakshatra for the birth moment (Yoga and Karana are currently simplified).
