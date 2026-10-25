@@ -162,6 +162,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Author
 
 **Chowdri Furkhan**
+
 B.E. in Artificial Intelligence and Machine Learning, Bengaluru, India
 
 [![GitHub](https://img.shields.io/badge/GitHub-Chowdri--Furkhan07-181717?logo=github&logoColor=white)](https://github.com/Chowdri-Furkhan07)
