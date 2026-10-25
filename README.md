@@ -10,8 +10,6 @@
 
 A Flask web application for Vedic (sidereal) astrology. It generates birth charts using the Swiss Ephemeris, performs Kundali compatibility matching, produces rule-based predictions with remedies, and includes an AI chat assistant that answers questions using the user's own chart data.
 
----
-
 ## Features
 
 - **Birth chart generation** — Sidereal positions using the Lahiri ayanamsa for the Sun, Moon, Mercury, Venus, Mars, Jupiter, Saturn, plus Rahu and Ketu (mean node).
