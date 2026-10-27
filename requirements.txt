@@ -1,6 +1,1 @@
-   flask
-   pyswisseph
-   python-dotenv
-   openai==1.3.0
-   flask-session==0.5.0
-   redis==5.0.1
+
