@@ -18,7 +18,7 @@ A Flask web application for Vedic (sidereal) astrology. It generates birth chart
 - **Panchanga** - Tithi and Nakshatra for the birth moment (Yoga and Karana are currently simplified).
 - **Kundali matching** - Compatibility analysis between two people from their birth dates and a shared location.
 - **Predictions and remedies** - Prediction signals generated from the chart, with matching remedies.
-- **AI Astrologer chat** — Conversational assistant that uses the most recently generated chart, predictions and remedies as context, with per-user conversation history, a clear-history endpoint and suggested questions.
+- **AI Astrologer chat** - Conversational assistant that uses the most recently generated chart, predictions and remedies as context, with per-user conversation history, a clear-history endpoint and suggested questions.
 - **JSON API** — Endpoints for horoscope data and AI chat, usable from other clients.
 
 ## Tech Stack
