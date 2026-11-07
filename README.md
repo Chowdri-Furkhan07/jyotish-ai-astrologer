@@ -202,6 +202,7 @@ To report a vulnerability, follow the process in [SECURITY.md](SECURITY.md). Ple
 ## Author
 
 **Chowdri Furkhan**
+
 GitHub: [@Chowdri-Furkhan07](https://github.com/Chowdri-Furkhan07)
 
 ## License
